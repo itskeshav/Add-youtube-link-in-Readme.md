@@ -5,10 +5,10 @@ paste this stuff:-
 Replace IMAGE ALT TEXT HERE    by  Repository Name
 Replace YOUTUBE_VIDEO_ID_HERE  by   Youtube video id
 
-
-Link of a youtube video  ===   >>>>   https://youtu.be/jQ8dZwTw8wQ
-
-
+For eg;
+Link of a youtube video -->   https://youtu.be/jQ8dZwTw8wQ
+IMAGE ALT TEXT HERE     -->   Add-youtube-link-in-Readme.md
+YOUTUBE_VIDEO_ID_HERE   -->   jQ8dZwTw8wQ
 
  [![Add-youtube-link-in-Readme.md](https://img.youtube.com/vi/jQ8dZwTw8wQ/0.jpg)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
 
